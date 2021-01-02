@@ -1,0 +1,6 @@
+# Classes
+class Person
+  @name: String
+
+  def initialize: (String name) -> void
+end

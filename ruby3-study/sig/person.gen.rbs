@@ -1,0 +1,5 @@
+# Classes
+class Person
+# def initialize: (String name) -> void
+  def hello: -> nil
+end
